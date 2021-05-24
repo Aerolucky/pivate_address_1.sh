@@ -2,4 +2,4 @@
 
 #!/bin/sh/
 
-try linux simple linux script for ping private ip address
+try simple linux script for ping private ip address
